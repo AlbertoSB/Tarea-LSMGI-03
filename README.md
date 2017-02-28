@@ -6,4 +6,4 @@ En la tarea 2 conseguí modificar el código lo suficiente hasta que salió algo
 
 He realizado un formulario en html con css, que sería como se vería en un principio, pero este formulario no se ha extraído de un xml y la corrección no funciona. Este formulario puede verse [aquí](https://rawgit.com/AlbertoSB/Tarea-LMSGI-03-Formulario-HTML/master/index_questions.html). También incluyo lo que he podido modificar del ejemplo, que son solo 3 preguntas porque no he conseguido añadir más y que todo siguiera funcionando.  
 
-Entiendo que es importante conocer JavaSript hoyen día, por ello, intentaré hacer algún curso online, porque con el contenido de esta asignatura, en mi caso, no es suficiente.  
+Entiendo que es importante conocer JavaSript hoyen día, por ello, intentaré hacer algún curso online desde 0, porque con el contenido de esta asignatura, en mi caso, no es suficiente.  
